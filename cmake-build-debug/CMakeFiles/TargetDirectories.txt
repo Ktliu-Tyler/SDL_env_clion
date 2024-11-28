@@ -1,0 +1,3 @@
+C:/Users/Liu KT/Documents/CLIon/my_Final_project_game/cmake-build-debug/CMakeFiles/my_Final_project_game.dir
+C:/Users/Liu KT/Documents/CLIon/my_Final_project_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Liu KT/Documents/CLIon/my_Final_project_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

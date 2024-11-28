@@ -1,0 +1,15 @@
+# ninja log v6
+942	1043	7532942646801040	Final_project_game.exe	c72f9a7be691b2b7
+868	975	7538203483883621	my_Final_project_game.exe	6c7021a7cddc3fc8
+21	357	7538204881052513	build.ninja	c18f0f36f3e1b756
+24	852	7537052104891623	CMakeFiles/my_Final_project_game.dir/src/SDL_bgi.cpp.obj	74834823a5a029eb
+17	867	7538203475375396	CMakeFiles/my_Final_project_game.dir/main.cpp.obj	cae3d174b64c04e7
+25	828	7538203475456817	CMakeFiles/my_Final_project_game.dir/src/engine.cpp.obj	2893b9b0cb420878
+36	1003	7537938542481335	CMakeFiles/my_Final_project_game.dir/SDL_lib/SDL_bgi.cpp.obj	5f534e17ca631d24
+31	764	7538203475507315	CMakeFiles/my_Final_project_game.dir/src/tool.cpp.obj	9da0a86a58175223
+37	800	7538203475567771	CMakeFiles/my_Final_project_game.dir/src/menu.cpp.obj	3e50507882960384
+34	768	7538208758460338	CMakeFiles/my_Final_project_game.dir/src/menu.cpp.obj	3e50507882960384
+40	779	7538208758511316	CMakeFiles/my_Final_project_game.dir/src/playground.cpp.obj	91b214689748bd55
+29	782	7538208758399671	CMakeFiles/my_Final_project_game.dir/src/engine.cpp.obj	2893b9b0cb420878
+22	810	7538208758331297	CMakeFiles/my_Final_project_game.dir/main.cpp.obj	cae3d174b64c04e7
+810	908	7538208766207740	my_Final_project_game.exe	e3483362cda20d58
